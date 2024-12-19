@@ -4,7 +4,7 @@ Pranaja Widyadhana Wardana <br>
 TI.23.A2 <br>
 <br>
 # 1. Cek Koneksi Terhubung: 
-<img src="/Lab8Web(File)/image/koneksi.png" img>
+<img src="/file/image/koneksi.png" img>
 # 2. Tampilan Awal:
 <img.>
 # 3. Saat Menambah Barang:
